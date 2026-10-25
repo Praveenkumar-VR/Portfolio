@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website! This project showcases my skills, projects, education, and contact information as a Python and Full Stack Developer.
 
 🌐 **Live Demo:**
-https://praveenkumar2919.github.io/Portfolio/
+https://praveenkumar-vr.github.io/Portfolio/
 
 ---
 
