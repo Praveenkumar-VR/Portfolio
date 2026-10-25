@@ -157,10 +157,10 @@ K.S. Rangasamy College of Technology
 https://www.linkedin.com/in/praveenkumar-v-r/
 
 💻 GitHub:
-https://github.com/PraveenKumar2919
+https://github.com/PraveenKumar-vr
 
 🌐 Portfolio:
-https://praveenkumar2919.github.io/Portfolio/
+https://praveenkumar-vr.github.io/Portfolio/
 
 ---
 
